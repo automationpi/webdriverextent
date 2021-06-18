@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef754a81-ab96-463d-97d8-812cdc2f8a5d" name="Default Changelist" comment="" />
+    <list default="true" id="ef754a81-ab96-463d-97d8-812cdc2f8a5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Reporting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Reporting.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/utils/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -81,12 +83,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/utils/Reporting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="46" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="52" />
+            <state relative-caret-position="187">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#2910#2911#0" expanded="true" />
                 <element signature="e#2959#2960#0" expanded="true" />
               </folding>
@@ -139,6 +142,9 @@
       <find>reportendtest</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,7 +153,6 @@
         <option value="$PROJECT_DIR$/src/main/java/utils/CommonFunction.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/utils/Reporting.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/BlazeDemoLanding.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/BlazeDemoPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/PurchasePage.java" />
@@ -155,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/test/java/TestDriver.java" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/main/java/utils/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Reporting.java" />
       </list>
     </option>
   </component>
@@ -171,6 +177,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -248,7 +255,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624040669490" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624042750457" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_221/lib/sa-jdi.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -493,23 +500,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Reporting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="52" />
-          <folding>
-            <element signature="e#2910#2911#0" expanded="true" />
-            <element signature="e#2959#2960#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utils/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Reporting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2910#2911#0" expanded="true" />
+            <element signature="e#2959#2960#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -10,7 +10,6 @@ public class Reporting {
     public static ExtentReports extent;
     public ExtentTest test;
     public String testName = "";
-    //public static String CodeVersion=PropertiesFileUtil.ReadPropValue("CodeVersion");
     private final static Logger logger = Logger.getLogger(Reporting.class);
     public boolean failFlag = false;
 
