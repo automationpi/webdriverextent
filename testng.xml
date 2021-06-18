@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test automtion regression suite" verbose="1"
+       thread-count="3" parallel="tests">
+
+    <test name='Demo Blaze'>
+        <parameter name='fromPort' value='Boston' />
+        <parameter name='toPort' value='London' />
+        <classes>
+            <class name='TestDriver'>
+                <methods>
+                    <include name='BlazeDemoTest' />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+
+
+
+</suite>
